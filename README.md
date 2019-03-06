@@ -21,15 +21,15 @@ Here, we use Simvastatin as an example. The related files are located in the dir
 2. <br />
 	2.1 Random sampling and calculate the p value.<br />
 	2.1.1 CUDA-based implementation for Module 2.<br />
-		Compile the source code in the computer which has NVIDIA GPU by using the command:<br />
-		`nvcc step_2_1_randomSampling_pValue_output.cu -o step_2_1_randomSampling_pValue_output -Wno-deprecated-gpu-targets`<br />
-		Run the executable file:<br />
-		`step_2_1_randomSampling_pValue_output simvastatin_result_1_compounds.txt simvastatin_result_2_compounds.txt simvastatin_result_1_proteins.txt simvastatin_result_2_proteins.txt para.txt "Simvastatin"`<br />
+	Compile the source code in the computer which has NVIDIA GPU by using the command:<br />
+	`nvcc step_2_1_randomSampling_pValue_output.cu -o step_2_1_randomSampling_pValue_output -Wno-deprecated-gpu-targets`<br />
+	Run the executable file:<br />
+	`step_2_1_randomSampling_pValue_output simvastatin_result_1_compounds.txt simvastatin_result_2_compounds.txt simvastatin_result_1_proteins.txt simvastatin_result_2_proteins.txt para.txt "Simvastatin"`<br />
 
 	2.1.2 Python-based implementation for Module 2.<br />
-		In this step, please make sure that the scipy and numpy packages are installed.<br />
-		Run the python script:<br />
-		`python step_2_1_randomSampling_pValue_output.py simvastatin_result_1_compounds.txt simvastatin_result_2_compounds.txt simvastatin_result_1_proteins.txt simvastatin_result_2_proteins.txt para.txt "Simvastatin"`<br />
+	In this step, please make sure that the scipy and numpy packages are installed.<br />
+	Run the python script:<br />
+	`python step_2_1_randomSampling_pValue_output.py simvastatin_result_1_compounds.txt simvastatin_result_2_compounds.txt simvastatin_result_1_proteins.txt simvastatin_result_2_proteins.txt para.txt "Simvastatin"`<br />
 	There are four output files containing the compounds and proteins information for Ibuprofen related DDI which are:<br />
 	Simvastatin_temp_result1_Substance_compounds_cutoff_4.txt<br />
 	Simvastatin_temp_result1_Substance_compounds_cutoff_4_p_0.05.txt<br />
@@ -37,9 +37,9 @@ Here, we use Simvastatin as an example. The related files are located in the dir
 	Simvastatin_temp_result1_Substance_proteins_cutoff_4_p_0.05.txt<br />
 	
 	2.2 Calculate the Benjamini-Hochberg adjusted p value.<br />
-		Run the python scripts:<br />
-		`python step_2_2_adjusted_pValue.py Simvastatin_temp_result1_Substance_compounds_cutoff_4_p_0.05.txt`<br />
-		`python step_2_2_adjusted_pValue.py Simvastatin_temp_result1_Substance_proteins_cutoff_4_p_0.05.txt`<br />
+	Run the python scripts:<br />
+	`python step_2_2_adjusted_pValue.py Simvastatin_temp_result1_Substance_compounds_cutoff_4_p_0.05.txt`<br />
+	`python step_2_2_adjusted_pValue.py Simvastatin_temp_result1_Substance_proteins_cutoff_4_p_0.05.txt`<br />
 	
 	There are two output files containing the compounds and proteins information for Ibuprofen related DDI ranked by Benjamini-Hochberg adjusted p value which are:<br />
 	Simvastatin_temp_result1_Substance_compounds_cutoff_4_adjustedPvalue_0.05.txt<br />
