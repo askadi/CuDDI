@@ -21,7 +21,7 @@ Here, we use Simvastatin as an example. The related files are located in the dir
 	2.1 Random sampling and calculate the p value.<br />
 		2.1.1 CUDA-based implementation for Module 2.<br />
 			Compile the source code in the computer which has NVIDIA GPU by using the command:<br />
-			`nvcc step_2_1_randomSampling_pValue_output.cu -o step_2_1_randomSampling_pValue_output -Wno-deprecated-gpu-targets`<br />
+			`nvcc step_2_1_randomSampling_pValue_output.cu -o step_2_1_randomSampling_pValue_output -Wno-deprecated-gpu-targets<br />
 			Run the executable file:<br />
 			`step_2_1_randomSampling_pValue_output simvastatin_result_1_compounds.txt simvastatin_result_2_compounds.txt simvastatin_result_1_proteins.txt simvastatin_result_2_proteins.txt para.txt "Simvastatin"`<br />
 
