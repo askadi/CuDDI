@@ -20,6 +20,7 @@ Here, we use Simvastatin as an example. The related files are located in the dir
 
 2. <br />
 	2.1 Random sampling and calculate the p value.<br />
+	
 	2.1.1 CUDA-based implementation for Module 2.<br />
 	Compile the source code in the computer which has NVIDIA GPU by using the command:<br />
 	`nvcc step_2_1_randomSampling_pValue_output.cu -o step_2_1_randomSampling_pValue_output -Wno-deprecated-gpu-targets`<br />
