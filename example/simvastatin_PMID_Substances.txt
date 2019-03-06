@@ -1,0 +1,2206 @@
+PMID	Substances
+27206939;Benzodiazepines
+27206939;evacetrapib
+26827575;Amlodipine
+26827575;Simvastatin
+26736984;Itraconazole
+26736984;Simvastatin
+26704540;Simvastatin
+26704540;Zinc
+26691294;Thapsigargin
+26691294;Simvastatin
+26691294;Digitoxin
+26553420;Simvastatin
+26502771;Lansoprazole
+26502771;Simvastatin
+26502771;Voriconazole
+26502771;CYP2C19 protein, human
+26502771;Cytochrome P-450 CYP2C19
+26502771;Cytochrome P-450 CYP3A
+26502771;CYP3A4 protein, human
+26497728;Rosuvastatin Calcium
+26497728;Atorvastatin
+26497728;Simvastatin
+26497728;Clarithromycin
+26497728;Pravastatin
+26381165;Simvastatin
+26381165;piragliatin
+26381165;Glucokinase
+26334320;Pemetrexed
+26334320;bafilomycin A
+26334320;3-methyladenine
+26334320;Simvastatin
+26334320;Adenine
+26334320;pepstatin
+26334320;MTOR protein, human
+26334320;TOR Serine-Threonine Kinases
+26334320;Proto-Oncogene Proteins c-akt
+26334320;AMP-Activated Protein Kinases
+26329790;Clopidogrel
+26329790;Simvastatin
+26329790;Ticlopidine
+26329790;Cytochrome P-450 CYP3A
+26329790;CYP3A4 protein, human
+26296708;Amiodarone
+26296708;Cytochrome P-450 CYP3A
+26296708;CYP3A4 protein, human
+26264702;Benzodiazepines
+26264702;evacetrapib
+26264702;Tolbutamide
+26264702;Simvastatin
+26264702;Midazolam
+26134595;Simvastatin
+26134595;Fenofibrate
+26119850;Itraconazole
+26119850;Amphotericin B
+26119850;Fluconazole
+26119850;Simvastatin
+26106178;Ethambutol
+26106178;Simvastatin
+26106178;Clarithromycin
+26106178;Rifampin
+26071221;Cholesterol
+26071221;Captopril
+26071221;Simvastatin
+26058399;Cytochrome P-450 Enzyme System
+26041408;Canagliflozin
+26017199;Omeprazole
+26017199;Trazodone
+26007644;Ubiquinone
+26007644;Adenosine Triphosphate
+26007644;coenzyme Q10
+25920750;Simvastatin
+25862838;Simvastatin
+25862838;Alendronate
+25862838;Proto-Oncogene Proteins c-akt
+25862838;JNK Mitogen-Activated Protein Kinases
+25841376;Mycophenolic Acid
+25801058;simvastatin acid
+25801058;Simvastatin
+25747989;2-oxo-clopidogrel
+25747989;Clopidogrel
+25747989;Simvastatin
+25747989;Ticlopidine
+25747989;Carboxylic Ester Hydrolases
+25747989;CES1 protein, human
+25738757;Simvastatin
+25738757;exemestane
+27140803;Canagliflozin
+27140803;Metformin
+27140803;Simvastatin
+27140803;Glyburide
+25720525;Simvastatin
+25720525;Cytochrome P-450 CYP3A
+25659873;Cholesterol
+25659873;Simvastatin
+25659873;PCSK9 protein, human
+25659873;Proprotein Convertase 9
+25659873;Proprotein Convertases
+25659873;Serine Endopeptidases
+25640999;Fluvastatin
+25640999;Rosuvastatin Calcium
+25640999;Ezetimibe
+25640999;Colesevelam Hydrochloride
+25640999;Creatine Kinase
+25571293;Simvastatin
+25571293;Nelfinavir
+25571292;norverapamil
+25571292;Simvastatin
+25571292;Verapamil
+25571290;Simvastatin
+25571290;Clarithromycin
+25566959;Doxorubicin
+25566959;Simvastatin
+25566959;Mevalonic Acid
+25560574;Rhodamine 123
+25560574;Nifedipine
+25560574;Ketoconazole
+25560574;Cyp3a2 protein, rat
+25560574;Cytochrome P-450 CYP3A
+25560572;Monocrotaline
+25560572;Rosuvastatin Calcium
+25560572;Imatinib Mesylate
+25560572;Simvastatin
+25492829;Angiotensin II
+25492829;Simvastatin
+25492829;Pravastatin
+25446771;simvastatin acid
+25446771;Simvastatin
+25417503;Nevirapine
+25417503;efavirenz
+25387217;rGLP-1 protein
+25387217;Warfarin
+25387217;Glucagon-Like Peptide 1
+25387217;Simvastatin
+25348907;Amlodipine
+25348907;Simvastatin
+25331664;Amlodipine
+25331664;Roxithromycin
+25331664;Simvastatin
+25325525;Simvastatin
+25324279;Amiodarone
+25323804;simvastatin acid
+25323804;Simvastatin
+25323804;prostaglandin D2 receptor
+25323804;Cytochrome P-450 CYP3A
+25323804;CYP3A4 protein, human
+25312732;Nadolol
+25312732;Warfarin
+25312732;Simvastatin
+25265832;Simvastatin
+25265832;Methotrexate
+25265832;L-Lactate Dehydrogenase
+25262449;Simvastatin
+25262449;tipifarnib
+25262449;Extracellular Signal-Regulated MAP Kinases
+25262449;ras Proteins
+25192420;indoleacetic acid
+25192420;3-carboxy-4-methyl-5-propyl-2-furanpropionic acid
+25192420;Simvastatin
+25192420;Pravastatin
+25192420;Indican
+25192420;hippuric acid
+25161155;simvastatin acid
+25161155;Simvastatin
+25161155;empagliflozin
+25134999;25-hydroxycholesterol
+25134999;Simvastatin
+25122066;Metformin
+25122066;Simvastatin
+25096993;Pemetrexed
+25096993;Guanine
+25096993;Simvastatin
+25096993;Acetylcysteine
+25049257;Atorvastatin
+25049257;Simvastatin
+25049257;Rifampin
+25041770;Simvastatin
+25041770;Clarithromycin
+24945998;Bevacizumab
+24945998;Simvastatin
+24945998;molecular chaperone GRP78
+24927617;Polyethylene Glycols
+24927617;Ribavirin
+24927617;telaprevir
+24927617;Simvastatin
+24918167;Simvastatin
+24913991;Atorvastatin
+24913991;Simvastatin
+24913991;Ritonavir
+24855121;Pyrazinamide
+24855121;Simvastatin
+24855121;Isoniazid
+24855121;Rifampin
+24832384;Niacin
+24832384;Simvastatin
+24803100;Fluvastatin
+24803100;Clopidogrel
+24803100;Simvastatin
+24803100;Ticlopidine
+24803100;Cytochrome P-450 CYP3A
+24803100;CYP3A4 protein, human
+24740652;Cholecalciferol
+24740652;Cholesterol
+24740652;simvastatin acid
+24740652;Simvastatin
+24728182;Atorvastatin
+24728182;Simvastatin
+24728182;MK-1597
+24728182;Cytochrome P-450 CYP3A
+24728182;CYP3A4 protein, human
+24705623;Cilostazol
+24705623;Probucol
+24691799;Cholesterol
+24691799;Simvastatin
+24691799;Fenofibrate
+24670799;Complement System Proteins
+24670799;Atorvastatin
+24670799;Sirolimus
+24670799;Protein Kinase C
+24670799;AMP-Activated Protein Kinases
+24613879;Cholesterol
+24613879;Simvastatin
+24613879;linalool
+24613879;Eucalyptol
+24602118;Rosuvastatin Calcium
+24602118;Cytochrome P-450 CYP3A
+24602118;Creatine Kinase
+24576714;fumonisin B1
+24576714;Progesterone
+24576714;Estradiol
+24576714;Zearalenone
+24576714;Insulin-Like Growth Factor I
+24576714;Follicle Stimulating Hormone
+24576714;Simvastatin
+24576714;deoxynivalenol
+24576714;Cholesterol Side-Chain Cleavage Enzyme
+24562588;Docetaxel
+24562588;Simvastatin
+24562588;Cisplatin
+24524197;Androstenedione
+24524197;Simvastatin
+24524197;Androsterone
+24524197;Resveratrol
+24524197;CYP17A1 protein, rat
+24524197;Steroid 17-alpha-Hydroxylase
+24456076;Galactose
+24456076;Methylprednisolone
+24401239;Simvastatin
+24401239;Oxygen
+24372723;N-2-cyclohexyloxy-4-nitrophenyl)methanesulfonamide
+24372723;Simvastatin
+24372723;Oncogene Protein v-akt
+24372723;Caspase 3
+24372723;Caspase 9
+24372369;Nitric Oxide
+24372369;Malondialdehyde
+24372369;C-Reactive Protein
+24372369;Simvastatin
+24372369;Aspirin
+25804051;Simvastatin
+25804051;Ezetimibe
+24264056;Malondialdehyde
+24264056;Simvastatin
+24264056;Glutathione
+24264056;naringenin
+24264056;Cytochrome P-450 CYP2E1
+24264056;Cyp3a1 protein, rat
+24264056;Cyp3a2 protein, rat
+24264056;Cytochrome P-450 CYP3A
+24264056;Superoxide Dismutase
+24264056;Aspartate Aminotransferases
+24264056;Alanine Transaminase
+24215190;pitavastatin
+24128959;Simvastatin
+24128959;Amiodarone
+24114976;Amlodipine
+24114976;simvastatin acid
+24114976;Simvastatin
+24038065;Warfarin
+23965645;Amlodipine
+23965645;Simvastatin
+23965645;CYP3A5 protein, human
+23965645;Cytochrome P-450 CYP3A
+23965645;CYP3A4 protein, human
+23947572;Atorvastatin
+23947572;Simvastatin
+23947572;Sirolimus
+23947572;TOR Serine-Threonine Kinases
+23947572;Mechanistic Target of Rapamycin Complex 1
+23947572;Proto-Oncogene Proteins c-akt
+23947572;Extracellular Signal-Regulated MAP Kinases
+23947572;CASP3 protein, human
+23947572;Casp3 protein, mouse
+23947572;Caspase 3
+23941814;S 1 combination)
+23941814;Tegafur
+23941814;Oxonic Acid
+23941814;Simvastatin
+23941814;Thymidylate Synthase
+23916407;Cyclosporine
+23916407;norverapamil
+23916407;Simvastatin
+23916407;Verapamil
+23916407;Midazolam
+23916407;CYP3A protein, human
+23916407;Cytochrome P-450 CYP3A
+23879968;Vitamin E
+23879968;plastochromanol 8
+23879968;Atorvastatin
+23879968;Simvastatin
+23879968;Mevalonic Acid
+23879968;Hydroxymethylglutaryl CoA Reductases
+23879968;Caspase 3
+23819752;pitavastatin
+23778904;Erythromycin
+23778904;Azithromycin
+23778904;Clarithromycin
+23769741;Adenosine Triphosphate
+23769741;Simvastatin
+23734754;Simvastatin
+23734754;Cisplatin
+23734754;Sirolimus
+23726291;Simvastatin
+23726291;eslicarbazepine acetate
+23726291;Cytochrome P-450 CYP3A
+23726291;CYP3A4 protein, human
+23661227;Sulindac
+23661227;Simvastatin
+23618917;Simvastatin
+23618917;Phosphatidylinositol 3-Kinases
+23588308;Cyclosporine
+23588308;Simvastatin
+23588308;Cytochrome P-450 CYP3A
+23580160;Vitamin E
+23580160;Simvastatin
+23580160;Catalase
+23580160;Glutathione Peroxidase
+23580160;Superoxide Dismutase
+23580160;Glutathione Transferase
+23580160;Aspartate Aminotransferases
+23580160;Alanine Transaminase
+23580160;Alkaline Phosphatase
+23562615;rofecoxib
+23562615;malonic acid
+23562615;Atorvastatin
+23562615;Simvastatin
+23496027;Ubiquinone
+23496027;Simvastatin
+23496027;coenzyme Q10
+23496027;Ezetimibe
+23496027;Pravastatin
+23492463;Atorvastatin
+23492463;Ranolazine
+23451885;simvastatin acid
+23451885;Simvastatin
+23426387;diphenyleneiodonium
+23426387;Cyclophosphamide
+23426387;Simvastatin
+23426387;Cisplatin
+23426387;NOS3 protein, human
+23426387;Nitric Oxide Synthase Type III
+23407140;Lovastatin
+23407140;Clopidogrel
+23407140;Simvastatin
+23407140;Ticagrelor
+23407140;Adenosine
+23407140;Ticlopidine
+23407140;Cytochrome P-450 CYP3A
+23407140;CYP3A4 protein, human
+23406054;Rosuvastatin Calcium
+23406054;Atorvastatin
+23406054;Simvastatin
+23406054;Pravastatin
+23399607;Simvastatin
+23386644;Cholesterol
+23386644;Simvastatin
+23386644;Resveratrol
+23386644;Mevalonic Acid
+23386644;HMGCR protein, human
+23386644;Hydroxymethylglutaryl CoA Reductases
+23352311;Thromboxane A2
+23352311;Collagen
+23352311;Atorvastatin
+23352311;Simvastatin
+23352311;Pravastatin
+23352311;Aspirin
+23352311;Calcium
+23352311;Cyclooxygenase 1
+23352311;PTGS1 protein, human
+23352311;Mitogen-Activated Protein Kinases
+23352311;Phospholipases A2
+23352311;Thromboxane-A Synthase
+23346887;C-Reactive Protein
+23346887;Simvastatin
+23346887;Ezetimibe
+23338910;Simvastatin
+23338910;Aspirin
+23334403;almorexant
+23334403;Atorvastatin
+23334403;Simvastatin
+23334403;Cytochrome P-450 CYP3A
+23334403;CYP3A4 protein, human
+23333250;Superoxides
+23333250;Cyclosporine
+23333250;Simvastatin
+23333250;Carnitine
+23333250;Piracetam
+23314530;Rosuvastatin Calcium
+23314530;Simvastatin
+23314530;Daptomycin
+23314530;Creatine Kinase
+23262057;Simvastatin
+23256625;Rosuvastatin Calcium
+23256625;simvastatin acid
+23256625;Atorvastatin
+23256625;Simvastatin
+23256625;Troleandomycin
+23256625;Cytochrome P-450 CYP3A
+23256625;CYP3A4 protein, human
+23220613;Dexamethasone
+23220613;Simvastatin
+23220613;Ketoconazole
+23220613;Capsaicin
+23220613;Cytochrome P-450 CYP3A
+23148630;Warfarin
+23148630;Simvastatin
+23148630;Aryl Hydrocarbon Hydroxylases
+23139750;Simvastatin
+23139750;Sirolimus
+23139750;Ribosomal Protein S6 Kinases, 70-kDa
+23139750;PTEN Phosphohydrolase
+23139750;PTEN protein, human
+23136913;Rifabutin
+23136913;Itraconazole
+23136913;Digoxin
+23136913;Cytochrome P-450 Enzyme System
+23136913;Simvastatin
+23136913;Verapamil
+23136913;Rifampin
+23136913;rifapentine
+23107042;Intercellular Adhesion Molecule-1
+23107042;C-Reactive Protein
+23107042;Metformin
+23107042;Simvastatin
+23096528;Acenocoumarol
+23096528;Phenprocoumon
+23077137;Simvastatin
+23077137;Sitagliptin Phosphate
+23075630;Imatinib Mesylate
+23075630;Simvastatin
+23069981;Ergosterol
+23063651;Vitamin E
+23063651;plastochromanol 8
+23063651;Simvastatin
+23063651;Mevalonic Acid
+23063651;Retinal Dehydrogenase
+23050945;Cholesterol
+23050945;Atorvastatin
+23050945;Simvastatin
+23050945;Glucosamine
+23032911;Acetaminophen
+23032911;Simvastatin
+23032911;Cytochrome P-450 CYP3A
+23032911;CYP3A4 protein, human
+22998389;Glutathione Transferase
+22994827;Simvastatin
+22994827;Colchicine
+22990330;6 beta-hydroxycortisol
+22990330;almorexant
+22990330;Simvastatin
+22990330;Midazolam
+22990330;Hydrocortisone
+22990330;Cytochrome P-450 CYP3A
+22990330;CYP3A4 protein, human
+22943117;Alitretinoin
+22943117;Tretinoin
+22922682;Atorvastatin
+22922682;Simvastatin
+22922682;Ticagrelor
+22922682;Adenosine
+22918879;pazopanib
+22918879;Simvastatin
+22918879;Alanine Transaminase
+22915623;Simvastatin
+22915623;Infliximab
+22912565;ropinirole
+22912565;tegaserod
+22912565;Loratadine
+22912565;Duloxetine Hydrochloride
+22912565;Simvastatin
+22912565;Promethazine
+22912565;Alprazolam
+22893641;Simvastatin
+22893641;Creatine Kinase
+22850990;Fluconazole
+22850990;Simvastatin
+22789904;Malondialdehyde
+22789904;Oxidopamine
+22789904;Atorvastatin
+22789904;Simvastatin
+22789904;Amphetamine
+22789904;thiazolyl blue
+22789904;Glutathione
+22789904;NADH Dehydrogenase
+22663953;Mycophenolic Acid
+22663953;Fenofibrate
+22663953;Glucuronosyltransferase
+22663953;UDP-glucuronosyltransferase 1A9
+22612290;eslicarbazepine acetate
+22594507;Warfarin
+22594507;Simvastatin
+22594507;CYP2C9 protein, human
+22594507;Cytochrome P-450 CYP2C9
+22594507;Aryl Hydrocarbon Hydroxylases
+22538052;Estrone
+22538052;Estradiol
+22538052;Gemfibrozil
+22538052;estrone sulfate
+22529023;Cytochrome P-450 CYP3A
+22529023;CYP3A4 protein, human
+22504754;Warfarin
+22504754;Atorvastatin
+22451032;Cytochrome P-450 Enzyme System
+22451032;tocilizumab
+22416996;Simvastatin
+22409214;Cholesterol
+22409214;Atorvastatin
+22409214;Simvastatin
+22409214;Pravastatin
+22409214;Aspirin
+22406649;Warfarin
+22358108;deacetyldiltiazem
+22358108;Cytochrome P-450 Enzyme System
+22358108;Simvastatin
+22358108;Diltiazem
+22358108;Cyp3a2 protein, rat
+22358108;Cytochrome P-450 CYP3A
+22339447;Vildagliptin
+22339447;Adamantane
+22288567;Deoxycytidine
+22288567;Lopinavir
+22288567;Ethinyl Estradiol
+22288567;Raltegravir Potassium
+22288567;Atazanavir Sulfate
+22288567;Rosuvastatin Calcium
+22288567;Tenofovir
+22288567;Atorvastatin
+22288567;Simvastatin
+22288567;Emtricitabine
+22288567;Adenine
+22288567;Ritonavir
+22288567;Darunavir
+22288567;Cytochrome P-450 CYP2D6
+22288567;Cytochrome P-450 CYP3A
+22288567;CYP3A4 protein, human
+22271159;2-3-4-ethoxybenzyl)-4-chlorophenyl)-6-hydroxymethyltetrahydro-2H-pyran-3,4,5-
+22271159;Warfarin
+22271159;Digoxin
+22271159;Valsartan
+22271159;Simvastatin
+22271159;Valine
+22237927;Atorvastatin
+22237927;Simvastatin
+22237927;Cytochrome P-450 CYP3A
+22237927;CYP3A4 protein, human
+22216470;Simvastatin
+22205719;ambrisentan
+22205719;Bosentan
+22176629;posaconazole
+22176629;Simvastatin
+22176629;Midazolam
+22176629;Cytochrome P-450 CYP3A
+22176629;CYP3A4 protein, human
+22122820;Cyclosporine
+22122820;Simvastatin
+22122820;CYP3A5 protein, human
+22122820;Cytochrome P-450 CYP3A
+22089963;Estrone
+22089963;Anastrozole
+22089963;Estradiol
+22089963;Simvastatin
+22089963;estrone sulfate
+22075668;Simvastatin
+22075668;Sitagliptin Phosphate
+22014153;Imatinib Mesylate
+22014153;Simvastatin
+22014153;Aryl Hydrocarbon Hydroxylases
+22014153;CYP2C8 protein, human
+22014153;Cytochrome P-450 CYP2C8
+22014153;Cytochrome P-450 CYP3A
+22014153;CYP3A4 protein, human
+21965734;pyrazolanthrone
+21965734;Niacinamide
+21965734;2-4-morpholinyl)-8-phenyl-4H-1-benzopyran-4-one
+21965734;Fluvastatin
+21965734;Sorafenib
+21965734;PolyADP-ribose) Polymerases
+21965734;Proto-Oncogene Proteins c-akt
+21965734;JNK Mitogen-Activated Protein Kinases
+21958456;Simvastatin
+21958456;Daptomycin
+21914450;Citrulline
+21914450;Nitric Oxide
+21914450;Arginine
+21914450;Simvastatin
+21914450;Nitric Oxide Synthase Type II
+21914450;Nitric Oxide Synthase Type III
+21914450;Argininosuccinate Lyase
+21913974;Nitric Oxide
+21913974;C-Reactive Protein
+21913974;Simvastatin
+21913974;Ramipril
+21910055;Cholesterol
+21910055;Simvastatin
+21910055;Ezetimibe
+21907337;farnesyl pyrophosphate
+21907337;Cholesterol
+21907337;Simvastatin
+21907337;geranylgeranyl pyrophosphate
+21907337;Resveratrol
+21907337;Mevalonic Acid
+21907337;Hydroxymethylglutaryl CoA Reductases
+21905458;Simvastatin
+21905458;Amiodarone
+21883349;Mitotane
+21883349;Sunitinib
+21883349;Cytochrome P-450 CYP3A
+21820929;CYP2C9 protein, human
+21820929;Cytochrome P-450 CYP2C9
+21820929;Aryl Hydrocarbon Hydroxylases
+21820929;CYP3A43 protein, human
+21730017;N-1-5-4-fluorophenyl)-2-methyl-4-thiazolyl)carbonyl)-2-piperidinyl)methyl)
+21730017;Simvastatin
+21709429;3-hydroxy-3-methylglutaryl-coenzyme A
+21709429;Rhodamine 123
+21709429;Lovastatin
+21709429;Simvastatin
+21709429;losartan carboxylic acid
+21709429;Losartan
+21709429;Cytochrome P-450 CYP3A
+21675881;Simvastatin
+21675881;Creatine Kinase
+21632965;Cytochrome P-450 CYP3A
+21630612;Simvastatin
+21630612;Amiodarone
+21630612;Cytochrome P-450 CYP3A
+21630612;Creatine Kinase
+21606082;2-2-chloro-4-fluorobenzyl)-3-4-fluorophenyl)-7-trifluoromethyl)-2H-indazole
+21606082;Thromboplastin
+21606082;Simvastatin
+21606082;Cyclooxygenase 2
+21545622;Simvastatin
+21545622;Diltiazem
+21545622;CYP3A protein, human
+21545622;Cytochrome P-450 CYP3A
+21443601;Alitretinoin
+21443601;Tretinoin
+21443601;Cyclosporine
+21443601;Simvastatin
+21443601;Ketoconazole
+21441468;Carbamazepine
+21441468;Simvastatin
+21441468;Nifedipine
+21441468;Midazolam
+21441468;Rifampin
+21441468;Phenobarbital
+21441468;Cytochrome P-450 CYP3A
+21441468;CYP3A4 protein, human
+21430660;Simvastatin
+21430660;tocilizumab
+21426490;Simvastatin
+21426490;Aspirin
+21416219;Rosuvastatin Calcium
+21416219;Atorvastatin
+21416219;Simvastatin
+21416219;fenofibric acid
+21416219;Fenofibrate
+21334753;Simvastatin
+21334753;Ezetimibe
+21318593;Warfarin
+21318593;Cytochrome P-450 Enzyme System
+21318593;Mixed Function Oxygenases
+21318593;CYP2C9 protein, human
+21318593;Cytochrome P-450 CYP2C9
+21318593;Aryl Hydrocarbon Hydroxylases
+21304039;Simvastatin
+21304039;Ketoconazole
+21304039;Fenofibrate
+21268318;Simvastatin
+21242642;Simvastatin
+21242642;Losartan
+21170619;pitavastatin
+21125536;Simvastatin
+21125536;Clarithromycin
+21125037;Fusidic Acid
+21125037;Atorvastatin
+21120479;Caspase 3
+21120461;Niacin
+21120461;nicotinuric acid
+21120461;simvastatin acid
+21120461;Simvastatin
+21120461;Ezetimibe
+21098375;Warfarin
+20966146;Ranolazine
+20966146;Simvastatin
+20966146;Creatine Kinase
+20955429;Dipyridamole
+20955429;Simvastatin
+20955429;Cilostazol
+20955429;Aspirin
+20947520;mevastatin
+20947520;Interferon-gamma
+20947520;Lovastatin
+20947520;Simvastatin
+20947520;Caspase 1
+20920765;Budesonide
+20920765;Simvastatin
+20890992;Simvastatin
+20890992;Amyloid Precursor Protein Secretases
+20852161;tizanidine
+20852161;Lisinopril
+20852161;Clonidine
+20833152;Erythropoietin
+20833152;Simvastatin
+20833152;Bromodeoxyuridine
+20824218;Minocycline
+20824218;Acetylcysteine
+20735423;Atorvastatin
+20735423;Clopidogrel
+20735423;Simvastatin
+20735423;Clarithromycin
+20735423;Ticlopidine
+20735423;Ketoconazole
+20735423;Aryl Hydrocarbon Hydroxylases
+20735423;CYP2C19 protein, human
+20735423;Cytochrome P-450 CYP2C19
+20735423;Cytochrome P-450 CYP3A
+20735423;CYP3A4 protein, human
+20730069;fenofibric acid
+20730069;Fenofibrate
+20726676;Simvastatin
+20726676;Amiodarone
+20721515;Atorvastatin
+20721515;Clopidogrel
+20721515;Simvastatin
+20721515;Ticlopidine
+20699675;pitavastatin
+20685498;Simvastatin
+20685498;Danazol
+20670185;Cytochrome P-450 Enzyme System
+20670185;pitavastatin
+20650039;Amlodipine
+20650039;Simvastatin
+20640495;Dipyridamole
+20640495;Simvastatin
+20640495;Aspirin
+20640495;Nitric Oxide Synthase Type III
+20640495;Nos3 protein, rat
+20640495;CREB-Binding Protein
+20640495;Crebbp protein, rat
+20640495;Proto-Oncogene Proteins c-akt
+20640495;Mitogen-Activated Protein Kinase 1
+20640495;Mitogen-Activated Protein Kinase 3
+20562903;Simvastatin
+20562903;Hydrogen Peroxide
+20562903;Nifedipine
+20562903;Nitric Oxide Synthase Type III
+20562903;Proto-Oncogene Proteins c-akt
+20525999;Simvastatin
+20525999;Ezetimibe
+20497745;Linagliptin
+20497745;Simvastatin
+20493175;1-5-Isoquinolinesulfonyl)-2-Methylpiperazine
+20493175;Simvastatin
+20493175;fasudil
+20493175;rho-Associated Kinases
+20493175;Tissue Plasminogen Activator
+20489031;dalcetrapib
+20489031;Rosuvastatin Calcium
+20489031;Simvastatin
+20489031;Pravastatin
+20467885;NF-KappaB Inhibitor alpha
+20467885;Irinotecan
+20467885;Simvastatin
+20467885;bisbenzimide ethoxide trihydrochloride
+20467885;Camptothecin
+20467885;Proteasome Endopeptidase Complex
+20456775;Itraconazole
+20456775;Simvastatin
+20354828;Imatinib Mesylate
+20354828;Simvastatin
+20334446;Hydrochlorothiazide
+20334446;Atenolol
+20334446;Simvastatin
+20334446;Ramipril
+20334446;Aspirin
+20211652;Simvastatin
+20200506;Fluoxetine
+20200506;Serotonin
+20200506;Cholesterol
+20200506;Simvastatin
+20200506;Desipramine
+20179258;pitavastatin
+20178046;Cytochrome P-450 Enzyme System
+20166433;norverapamil
+20166433;Simvastatin
+20166433;Verapamil
+20166433;Cytochrome P-450 CYP3A
+20158569;Atorvastatin
+20158569;Simvastatin
+20158569;Aspirin
+20158569;Indomethacin
+20150526;Simvastatin
+20150526;Diltiazem
+20044367;Warfarin
+20044367;Erythromycin
+19997573;pitavastatin
+19920157;Simvastatin
+19875509;primycin
+19841160;Simvastatin
+19841160;Lisinopril
+19841160;Oxidoreductases
+19804821;Quercetin
+19804821;Simvastatin
+19781532;Simvastatin
+19781532;Tissue Plasminogen Activator
+19778232;Ubiquinone
+19778232;Itraconazole
+19778232;Cyclosporine
+19778232;Simvastatin
+19778232;Electron Transport Complex IV
+19777282;Vitamin E
+19777282;plastochromanol 8
+19777282;Mevalonic Acid
+19777282;Hydroxymethylglutaryl CoA Reductases
+19734738;Ceftriaxone
+19734738;Clarithromycin
+19734738;Doxycycline
+19734738;Colchicine
+19721907;Simvastatin
+19719333;Cytochrome P-450 Enzyme System
+19678716;Niacin
+19644728;Docosahexaenoic Acids
+19644728;Eicosapentaenoic Acid
+19644728;Simvastatin
+19644728;Caspase 3
+19555809;Fibrinogen
+19555809;Arginine
+19555809;Simvastatin
+19555809;Aspartate Aminotransferases
+19555424;Simvastatin
+19555424;Telmisartan
+19555395;Simvastatin
+19555395;Telmisartan
+19555395;Bisoprolol
+19555146;Amiodarone
+19552746;Simvastatin
+19552746;anacetrapib
+19549094;Rosuvastatin Calcium
+19549094;Cytochrome P-450 Enzyme System
+19549094;Atorvastatin
+19549094;Clopidogrel
+19549094;Simvastatin
+19549094;Ticlopidine
+19549094;Cytochrome P-450 CYP3A
+19515066;Angiotensin II
+19515066;Simvastatin
+19515066;Extracellular Signal-Regulated MAP Kinases
+19481021;Fluvastatin
+19481021;Cyclosporine
+19481021;Cholesterol
+19481021;Atorvastatin
+19481021;Tacrolimus
+19479982;CYP3A protein, human
+19479982;Cytochrome P-450 CYP3A
+19432822;Water
+19432822;farnesyl pyrophosphate
+19432822;Lovastatin
+19432822;Simvastatin
+19432822;Pravastatin
+19432822;geranylgeranyl pyrophosphate
+19432822;Mevalonic Acid
+19432822;Hydroxymethylglutaryl CoA Reductases
+19432085;Simvastatin
+19432085;Podophyllotoxin
+19398603;Atorvastatin
+19398603;Simvastatin
+19398603;1-hydroxymethylmidazolam
+19398603;pitavastatin
+19398603;Midazolam
+19398603;Cytochrome P-450 CYP3A
+19398603;CYP3A4 protein, human
+19374035;Simvastatin
+19374035;bifonazole
+19363255;Cholesterol
+19363255;Lovastatin
+19363255;Simvastatin
+19363255;thiazolyl blue
+19363255;Calcium
+19363255;Oncogene Protein v-akt
+19363255;Extracellular Signal-Regulated MAP Kinases
+19363255;Caspase 3
+19359655;Vitamin E
+19359655;plastochromanol 8
+19350484;Cholesterol
+19350484;Simvastatin
+19301305;Rosiglitazone
+19301305;Simvastatin
+19301305;Aspirin
+19298698;Angiotensin II
+19298698;Simvastatin
+19298698;Losartan
+19252767;Simvastatin
+19252767;Clarithromycin
+19217901;Nitric Oxide
+19217901;Arginine
+19217901;Simvastatin
+19217901;Dinoprostone
+19217901;NG-Nitroarginine Methyl Ester
+19217901;Indomethacin
+19206087;Simvastatin
+19206087;Pravastatin
+19206087;Cytochrome P-450 CYP3A
+19206087;CYP3A4 protein, human
+19204138;Simvastatin
+19204138;Sitagliptin Phosphate
+19151423;Ciprofloxacin
+19151423;Simvastatin
+19151423;Cytochrome P-450 CYP3A
+19151423;CYP3A4 protein, human
+19099014;Carvedilol
+19099014;Ranolazine
+19099014;Simvastatin
+19099014;Diltiazem
+19087798;Cyclosporine
+19087798;Simvastatin
+19087798;Risperidone
+19071883;mipomersen
+19071883;Simvastatin
+19071883;Ezetimibe
+18927522;Simvastatin
+18927522;Cytochrome P-450 CYP3A
+18927522;CYP3A4 protein, human
+18812982;Simvastatin
+18812982;Amiodarone
+18808320;Rosuvastatin Calcium
+18808320;Fenofibrate
+18783297;Cytochrome P-450 CYP3A
+18783297;CYP3A4 protein, human
+18779350;Fluvastatin
+18779350;Artesunate
+18779350;Atorvastatin
+18779350;Simvastatin
+18779350;Pravastatin
+18711168;Simvastatin
+18676683;Clopidogrel
+18676683;Ticlopidine
+18650173;Amlodipine
+18650173;Atenolol
+18650173;Simvastatin
+18650173;Erlotinib Hydrochloride
+18650173;Ezetimibe
+18650173;Aspirin
+18640378;Berberine
+18640378;Simvastatin
+18635333;Atenolol
+18635333;Lisinopril
+18635333;Aspirin
+18621417;Thalidomide
+18621417;Simvastatin
+18621417;Lenalidomide
+18621417;Mevalonic Acid
+18563955;Fluvastatin
+18563955;Lovastatin
+18563955;Simvastatin
+18563955;Pravastatin
+18558792;Atorvastatin
+18558792;Simvastatin
+18558792;Cytochrome P-450 CYP3A
+18558792;CYP3A4 protein, human
+18558606;Simvastatin
+18548583;Sulindac
+18548583;Fluvastatin
+18548583;Lovastatin
+18548583;Atorvastatin
+18548583;Simvastatin
+18548583;cerivastatin
+18548583;Celecoxib
+18548583;Pravastatin
+18548583;Aspirin
+18536189;Methylcellulose
+18536189;Simvastatin
+18536189;Metoprolol
+18536188;Methylcellulose
+18536188;Simvastatin
+18536188;Metoprolol
+18521906;Simvastatin
+18521906;Caspase 3
+18490798;Simvastatin
+18490798;Clarithromycin
+18490798;Colchicine
+18490798;Cytochrome P-450 CYP3A
+18490798;CYP3A4 protein, human
+18481486;Fluconazole
+18481486;Simvastatin
+18481486;Creatine Kinase
+18477279;Fusidic Acid
+18477279;Simvastatin
+18463201;Doxorubicin
+18463201;Simvastatin
+18463201;rhoA GTP-Binding Protein
+18391898;Niacin
+18391898;Simvastatin
+18382469;Nitric Oxide
+18382469;Dipyridamole
+18382469;Simvastatin
+18382469;Nitric Oxide Synthase Type III
+18347465;Atenolol
+18347465;Cytochrome P-450 Enzyme System
+18347465;Simvastatin
+18347465;Sildenafil Citrate
+18347465;Diltiazem
+18343073;Hydrochlorothiazide
+18343073;Atenolol
+18343073;Atorvastatin
+18343073;Simvastatin
+18343073;Lisinopril
+18343073;Pravastatin
+18343073;Aspirin
+18343073;buthiazide
+18326949;Simvastatin
+18319497;Digoxin
+18319497;Metformin
+18319497;2,4-thiazolidinedione
+18319497;Sitagliptin Phosphate
+18310456;Simvastatin
+18310456;rho-Associated Kinases
+18310456;Bone Morphogenetic Protein Receptors
+18310456;ras Proteins
+18302447;Lovastatin
+18302447;Simvastatin
+18302447;Cytochrome P-450 CYP3A
+18302447;CYP3A4 protein, human
+18302447;Creatine Kinase
+18277121;Rifabutin
+18277121;Rifampin
+18242710;Simvastatin
+18242710;Caspase 1
+18220561;Erythromycin
+18220561;Fluconazole
+18220561;Verapamil
+18220561;Midazolam
+18220561;Ketoconazole
+18220561;Cytochrome P-450 CYP3A
+18217151;Adenosine Diphosphate
+18217151;Cytochrome P-450 Enzyme System
+18217151;Atorvastatin
+18217151;Clopidogrel
+18217151;Simvastatin
+18217151;Ticlopidine
+18217151;Cytochrome P-450 CYP3A
+18217151;CYP3A4 protein, human
+19544679;Atorvastatin
+19544679;Clopidogrel
+19544679;Simvastatin
+19544679;Ticlopidine
+19544679;Cytochrome P-450 CYP3A
+19544679;CYP3A4 protein, human
+18159128;Nateglinide
+18159128;Phenylalanine
+18159128;Cytochrome P-450 Enzyme System
+18159128;CYP2C9 protein, human
+18159128;Cytochrome P-450 CYP2C9
+18159128;Aryl Hydrocarbon Hydroxylases
+18159128;Cytochrome P-450 CYP3A
+18159128;CYP3A4 protein, human
+18047562;Simvastatin
+18047562;Dopamine
+18047562;Nitric Oxide Synthase Type II
+18001265;Atorvastatin
+17931461;simvastatin acid
+17931461;Simvastatin
+17931461;Vildagliptin
+17931461;Adamantane
+17931461;Hydroxymethylglutaryl CoA Reductases
+17921794;Simvastatin
+17921794;Colchicine
+17913761;Erythromycin
+17913761;Simvastatin
+17911146;Simvastatin
+17846821;Fluoxetine
+17846821;Diclofenac
+17846821;Carbamazepine
+17846821;Triclosan
+17846821;Clofibric Acid
+17846821;Simvastatin
+17763133;Cyclosporine
+17763133;Simvastatin
+17711141;Warfarin
+17711141;Digoxin
+17711141;Lovastatin
+17711141;Verapamil
+17711141;Diltiazem
+17708069;Simvastatin
+17708069;Digitoxin
+17708069;Amiodarone
+17701065;Vitamin E
+17701065;mevastatin
+17701065;plastochromanol 8
+17701065;Lovastatin
+17701065;Simvastatin
+17701065;Pravastatin
+17701065;Proto-Oncogene Proteins c-akt
+17701065;Mitogen-Activated Protein Kinases
+17701065;p38 Mitogen-Activated Protein Kinases
+17701065;MAP Kinase Kinase 4
+17675370;Monocrotaline
+17675370;Atorvastatin
+17675370;Simvastatin
+17675370;Sirolimus
+17675370;Ribosomal Protein S6 Kinases, 70-kDa
+17674912;Simvastatin
+17674912;Ezetimibe
+17659194;Cytochrome P-450 Enzyme System
+17659194;Atorvastatin
+17659194;Clopidogrel
+17659194;Pravastatin
+17659194;Ticlopidine
+17659194;Cytochrome P-450 CYP3A
+17659194;CYP3A4 protein, human
+17658574;Clofibric Acid
+17655842;Arachidonic Acid
+17655842;pirinixic acid
+17655842;Cholesterol
+17655842;Linoleic Acid
+17655842;Simvastatin
+17655842;Fenofibrate
+17655842;ciglitazone
+17655842;Fatty Acid Desaturases
+17655842;delta-5 fatty acid desaturase
+17655375;Cytochrome P-450 Enzyme System
+17655375;Cytochrome P-450 CYP3A
+17655375;CYP3A4 protein, human
+17631074;Valsartan
+17631074;C-Reactive Protein
+17631074;Simvastatin
+17631074;Valine
+17628739;Cyclosporine
+17628739;Simvastatin
+17628739;Colchicine
+17628739;Methylprednisolone
+17628739;Propofol
+17628739;Creatine Kinase
+17615423;Atazanavir Sulfate
+17615423;Simvastatin
+17615423;Amiodarone
+17603221;benidipine
+17603221;Azetidinecarboxylic Acid
+17603221;Cytochrome P-450 Enzyme System
+17603221;Simvastatin
+17603221;azelnidipine
+17603221;Cytochrome P-450 CYP3A
+17603221;CYP3A4 protein, human
+17571108;Simvastatin
+17565042;Warfarin
+17565042;Simvastatin
+17472704;BM 15766
+17472704;Cholesterol
+17472704;Mevalonic Acid
+17472704;Amyloid Precursor Protein Secretases
+17470528;Estrone
+17470528;Fluvastatin
+17470528;Taurocholic Acid
+17470528;Simvastatin
+17470528;Troglitazone
+17470528;Pravastatin
+17470528;Gemfibrozil
+17470528;estrone sulfate
+17470524;Uridine Diphosphate Glucuronic Acid
+17470524;Glucuronic Acid
+17470524;Atorvastatin
+17470524;fenofibric acid
+17470524;Gemfibrozil
+17470524;Fenofibrate
+17470524;UDP-glucuronosyltransferase, UGT1A3
+17470524;Glucuronosyltransferase
+17470524;bilirubin glucuronoside glucuronosyltransferase
+17384364;Atorvastatin
+17384364;Simvastatin
+17381388;Erythromycin
+17381388;Simvastatin
+17381388;Clarithromycin
+17368833;Simvastatin
+17368833;Ketoconazole
+17357590;Simvastatin
+17357590;Diltiazem
+17357590;Creatine Kinase
+17355744;Valsartan
+17355744;Simvastatin
+17355744;Valine
+17304269;Warfarin
+17304269;Atorvastatin
+17304269;Simvastatin
+17304269;Diltiazem
+17304269;Aryl Hydrocarbon Hydroxylases
+17304269;CYP3A43 protein, human
+17302920;Rosuvastatin Calcium
+17302920;Lovastatin
+17302920;Atorvastatin
+17302920;Simvastatin
+17301736;Simvastatin
+17301736;Pravastatin
+17301736;Amiodarone
+17264303;7-hydroxystaurosporine
+17264303;Staurosporine
+17264303;Proto-Oncogene Proteins c-akt
+17264303;Mitogen-Activated Protein Kinase Kinases
+17264303;Proto-Oncogene Proteins p21ras)
+17196944;3-hydroxy-3-methylglutaryl-coenzyme A
+17196944;1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+17196944;Fenofibrate
+17196944;Bezafibrate
+17196944;Monoamine Oxidase
+17178259;Cytochrome P-450 Enzyme System
+17178259;Cytochrome P-450 CYP3A
+17178259;CYP3A4 protein, human
+17058898;Cyclosporine
+17058898;Simvastatin
+17044581;Cyclosporine
+17044581;Cytochrome P-450 Enzyme System
+17044581;Simvastatin
+16999602;Bismuth
+16957460;Rosuvastatin Calcium
+16957460;Atorvastatin
+16957460;Simvastatin
+16944963;Omeprazole
+16944963;Esomeprazole
+16944963;Cytochrome P-450 CYP2D6
+16917207;Zoledronic Acid
+16917207;Simvastatin
+16913392;Cytochrome P-450 Enzyme System
+16913392;Cytochrome P-450 CYP3A
+16913392;CYP3A4 protein, human
+16809804;Simvastatin
+16714062;Cytochrome P-450 Enzyme System
+16706996;Warfarin
+16706996;Simvastatin
+16706996;CYP2C9 protein, human
+16706996;Cytochrome P-450 CYP2C9
+16706996;Aryl Hydrocarbon Hydroxylases
+16706996;Cytochrome P-450 CYP3A
+16706996;CYP3A4 protein, human
+16611111;Cytochrome P-450 Enzyme System
+16611111;Cytochrome P-450 CYP3A
+16611111;CYP3A4 protein, human
+16581329;Clofibric Acid
+16581329;Creatine Kinase
+16581325;Cytochrome P-450 Enzyme System
+16552506;Carbamazepine
+16552506;Warfarin
+16552506;10-hydroxywarfarin
+16552506;Amiodarone
+16552506;CYP2C9 protein, human
+16552506;Cytochrome P-450 CYP2C9
+16552506;Aryl Hydrocarbon Hydroxylases
+16542205;talinolol
+16542205;multidrug resistance-associated protein 2
+16542205;Simvastatin
+16537817;Simvastatin
+16537817;Amiodarone
+16531630;Cytochrome P-450 Enzyme System
+16531630;Simvastatin
+16531630;Nifedipine
+16531630;Dopamine
+16512094;Cytochrome P-450 Enzyme System
+16512094;Atorvastatin
+16512094;Simvastatin
+16512094;Pravastatin
+16512094;CYP3A protein, human
+16512094;Cytochrome P-450 CYP3A
+16511915;Simvastatin
+16511915;geranylgeranyl pyrophosphate
+16511915;Mevalonic Acid
+16477470;Cytochrome P-450 Enzyme System
+16477470;Phloroglucinol
+16477470;hyperforin
+16477470;Cytochrome P-450 CYP3A
+16477470;CYP3A4 protein, human
+16415122;Loperamide
+16415122;Cytochrome P-450 Enzyme System
+16415122;Cytochrome P-450 CYP3A
+16415122;CYP3A4 protein, human
+16412477;Simvastatin
+16412477;Pravastatin
+16400397;Niacin
+16400397;Atorvastatin
+16400397;Simvastatin
+16374400;Atorvastatin
+16374400;Simvastatin
+16374400;Pravastatin
+16358092;Simvastatin
+16288136;nefazodone
+16288136;Simvastatin
+16288136;Transaminases
+16264203;Cytochrome P-450 Enzyme System
+16264203;Clopidogrel
+16264203;Ticlopidine
+16264203;CYP3A protein, human
+16264203;Cytochrome P-450 CYP3A
+16264203;CYP3A4 protein, human
+16264203;Creatine Kinase, MB Form
+16238904;Cytochrome P-450 Enzyme System
+16238904;telithromycin
+16238904;CYP3A protein, human
+16238904;Cytochrome P-450 CYP3A
+16238904;CYP3A4 protein, human
+16215713;Simvastatin
+16215713;Metoprolol
+16204175;Simvastatin
+16204175;Thyroxine
+16159992;Simvastatin
+16159992;Clarithromycin
+16159992;Amiodarone
+16132947;Rosiglitazone
+16132947;Metformin
+16132947;Fenofibrate
+16132947;Creatine Kinase
+16118799;Atorvastatin
+16118799;Simvastatin
+16118799;thiazolyl blue
+16118799;L-Lactate Dehydrogenase
+16116309;Simvastatin
+16101667;Fluvastatin
+16101667;Rosuvastatin Calcium
+16101667;Atorvastatin
+16101667;Clopidogrel
+16101667;Simvastatin
+16101667;Pravastatin
+16101667;Ticlopidine
+16097365;Amlodipine
+16097365;Simvastatin
+16095503;Fluvastatin
+16095503;Cyclosporine
+16095503;Cytochrome P-450 Enzyme System
+16095503;Atorvastatin
+16095503;Simvastatin
+16095503;Pravastatin
+16095503;Tacrolimus
+16095503;CYP3A protein, human
+16095503;Cytochrome P-450 CYP3A
+16095503;CYP3A4 protein, human
+16041948;Simvastatin
+16041948;Ezetimibe
+16041947;Simvastatin
+16041947;Ezetimibe
+16006277;Rosuvastatin Calcium
+15980690;Atorvastatin
+15980690;Simvastatin
+15980690;efavirenz
+15980690;Pravastatin
+15963098;Cytochrome P-450 Enzyme System
+15963098;CYP3A protein, human
+15963098;Cytochrome P-450 CYP3A
+15963098;CYP3A4 protein, human
+15920330;Atorvastatin
+15920330;Lisinopril
+15901588;Rosuvastatin Calcium
+15901588;Creatinine
+15871849;Simvastatin
+15871849;Fenofibrate
+15871634;Cholestyramine Resin
+15871634;Warfarin
+15871634;Ezetimibe
+15860745;1-5-Isoquinolinesulfonyl)-2-Methylpiperazine
+15860745;Atorvastatin
+15860745;fasudil
+15860745;Protein Kinases
+15860745;Phosphatidylinositol 3-Kinases
+15860745;Interleukin-1 Receptor-Associated Kinases
+15860377;Cyclosporine
+15778423;Ranolazine
+15778423;Simvastatin
+15778423;Diltiazem
+15778423;Ketoconazole
+15763887;Fluvastatin
+15763887;Atorvastatin
+15763887;Clopidogrel
+15763887;Simvastatin
+15763887;Pravastatin
+15763887;Ticlopidine
+15733030;Niacin
+15733030;Fluvastatin
+15733030;Digoxin
+15733030;Cyclosporine
+15733030;Atorvastatin
+15733030;Simvastatin
+15733030;Pravastatin
+15733030;Aryl Hydrocarbon Hydroxylases
+15733030;Cytochrome P-450 CYP3A
+15733030;Oxidoreductases, N-Demethylating
+15692832;Aryl Hydrocarbon Hydroxylases
+15692832;Cytochrome P-450 CYP3A
+15692832;Oxidoreductases, N-Demethylating
+15679472;Cytochrome P-450 Enzyme System
+15679472;Atorvastatin
+15679472;Clopidogrel
+15679472;Ticlopidine
+15679472;CYP3A protein, human
+15679472;Cytochrome P-450 CYP3A
+15659001;Fluvastatin
+15659001;Atorvastatin
+15659001;Simvastatin
+15659001;Pravastatin
+15659001;pitavastatin
+15631531;Ezetimibe
+15631531;Aspartate Aminotransferases
+15631531;Alanine Transaminase
+15630845;Cyproterone Acetate
+15630845;Simvastatin
+15613049;Cholesterol
+15613049;Simvastatin
+15613049;Carnitine
+15613049;Aspartate Aminotransferases
+15613049;Alanine Transaminase
+15613049;Creatine Kinase
+15585441;Atazanavir Sulfate
+15569835;Malondialdehyde
+15569835;C-Reactive Protein
+15569835;Simvastatin
+15569835;Losartan
+15568889;Bosentan
+15554726;Simvastatin
+15554726;Ezetimibe
+15545884;Simvastatin
+15545884;Clarithromycin
+15545884;Technetium Tc 99m Medronate
+15532136;Rosuvastatin Calcium
+15532136;Simvastatin
+15532136;Pravastatin
+15531380;Simvastatin
+15531380;Diltiazem
+15531000;Rosuvastatin Calcium
+15530425;Angiotensin II
+15530425;PD 123319
+15530425;ramiprilat
+15530425;Simvastatin
+15530425;Losartan
+15530425;Ramipril
+15530425;Peptidyl-Dipeptidase A
+15522468;Atorvastatin
+15522468;Clopidogrel
+15522468;Simvastatin
+15522468;Ticlopidine
+15520652;Cyclosporine
+15520652;Atorvastatin
+15520652;Simvastatin
+15518608;Mibefradil
+15518608;Itraconazole
+15518608;Cytochrome P-450 Enzyme System
+15518608;Atorvastatin
+15518608;Simvastatin
+15518608;Verapamil
+15518608;Clarithromycin
+15518608;Pravastatin
+15518608;Creatine Kinase
+15497697;simvastatin acid
+15497697;Atorvastatin
+15497697;Simvastatin
+15497697;Ritonavir
+15455502;Cytochrome P-450 Enzyme System
+15455502;Simvastatin
+15455502;Clarithromycin
+15455502;CYP3A protein, human
+15455502;Cytochrome P-450 CYP3A
+15358990;Simvastatin
+15358990;Risperidone
+15357489;Simvastatin
+15357489;Ezetimibe
+15317833;Simvastatin
+15317833;Fenofibrate
+15317833;Hydroxymethylglutaryl CoA Reductases
+15287916;Insulin-Like Growth Factor I
+15287916;Simvastatin
+15260917;Cytochrome P-450 Enzyme System
+15260917;CYP3A protein, human
+15260917;Cytochrome P-450 CYP3A
+15228374;Simvastatin
+15206993;simvastatin acid
+15206993;Simvastatin
+15204695;Spironolactone
+15204695;Eplerenone
+15187217;Rosuvastatin Calcium
+15187217;Cholesterol
+15187114;Interleukin-12
+15187114;Simvastatin
+15165929;Rosiglitazone
+15165929;Atorvastatin
+15165929;Simvastatin
+15165929;Pioglitazone
+15136060;Simvastatin
+15136060;Epoprostenol
+15136060;Cyclooxygenase 2
+15136060;PTGS2 protein, human
+15136060;Prostaglandin-Endoperoxide Synthases
+15136060;Mitogen-Activated Protein Kinase 1
+15132100;Simvastatin
+15120604;Cholesterol
+15120604;Simvastatin
+15120604;Pioglitazone
+15116058;Rosuvastatin Calcium
+15116058;Gemfibrozil
+15106527;Granulocyte Colony-Stimulating Factor
+15106527;Atorvastatin
+15106527;Simvastatin
+15106527;Filgrastim
+15099124;repaglinide
+15090747;Dexamethasone
+15090747;Simvastatin
+15090747;Melphalan
+15069169;Simvastatin
+15069169;Amiodarone
+15049723;Rosuvastatin Calcium
+15030249;Rosuvastatin Calcium
+15013132;Simvastatin
+14998226;Fluvastatin
+14998226;Warfarin
+14998226;Atorvastatin
+14998226;Simvastatin
+14998226;Acenocoumarol
+14966253;Simvastatin
+14966253;Clarithromycin
+14758716;Ethanol
+14758716;Cholesterol
+14758716;Simvastatin
+14758716;Alanine Transaminase
+14758716;Alkaline Phosphatase
+14748817;Pravastatin
+14748817;Rifampin
+14712320;Cytochrome P-450 Enzyme System
+14712320;Simvastatin
+14712320;Danazol
+14712320;CYP3A protein, human
+14712320;Cytochrome P-450 CYP3A
+14691614;Carbamazepine
+14691614;simvastatin acid
+14691614;Simvastatin
+14612892;Imatinib Mesylate
+14612892;Simvastatin
+14604738;Ezetimibe
+14570351;nefazodone
+14570351;Simvastatin
+14522569;Cytochrome P-450 Enzyme System
+14522569;Clopidogrel
+14522569;Ticlopidine
+14522569;CYP3A protein, human
+14522569;Cytochrome P-450 CYP3A
+14522569;CYP3A4 protein, human
+14503117;Simvastatin
+14503117;Amiodarone
+14503117;CYP3A protein, human
+14503117;Cytochrome P-450 CYP3A
+12960932;Cyclosporine
+12960932;Simvastatin
+12942860;Cyclosporine
+12942860;Simvastatin
+12942860;Verapamil
+12925453;Cytochrome P-450 Enzyme System
+12925453;Atorvastatin
+12925453;Clopidogrel
+12925453;Ticlopidine
+12925453;CYP3A protein, human
+12925453;Cytochrome P-450 CYP3A
+12925453;CYP3A4 protein, human
+12885276;Fusidic Acid
+12885276;Simvastatin
+12883323;Simvastatin
+12883323;Acetylcholine
+12883323;NG-Nitroarginine Methyl Ester
+12883323;Nitric Oxide Synthase
+12883323;Superoxide Dismutase
+12882588;Rifampin
+12875104;Lovastatin
+12875104;Atorvastatin
+12875104;Simvastatin
+12841940;Bezafibrate
+12825143;Sildenafil Citrate
+12822205;Cytochrome P-450 Enzyme System
+12822205;CYP3A protein, human
+12822205;Cytochrome P-450 CYP3A
+12822205;CYP3A4 protein, human
+12817528;repaglinide
+12817528;Cytochrome P-450 Enzyme System
+12817528;Simvastatin
+12817528;Ketoconazole
+12817528;Rifampin
+12817528;CYP3A protein, human
+12817528;Cytochrome P-450 CYP3A
+12817528;CYP3A4 protein, human
+12811363;Pravastatin
+12811363;Gemfibrozil
+12723464;Fluoxetine
+12723464;Orlistat
+12723464;Simvastatin
+12723464;Amiodarone
+12723464;Lipase
+12719797;Warfarin
+12719797;Simvastatin
+12693464;Flutamide
+12693464;Simvastatin
+12662125;Ritonavir
+12660659;Fluvastatin
+12660659;Cholesterol
+12660659;Lovastatin
+12660659;Atorvastatin
+12660659;Simvastatin
+12660659;Pravastatin
+12644902;Clofibric Acid
+12644902;Simvastatin
+12644902;ciprofibrate
+12644902;Clofibrate
+12644902;Gemfibrozil
+12644902;Fenofibrate
+12644902;Bezafibrate
+12587952;Simvastatin
+12587952;naringenin
+12558459;Cyclosporine
+12558459;Orlistat
+12558459;Probucol
+12554070;Simvastatin
+12554070;naringenin
+12554070;bergamottin
+12544321;Cytochrome P-450 Enzyme System
+12544321;Simvastatin
+12544321;Ketoconazole
+12495360;Cytochrome P-450 Enzyme System
+12433827;Cytochrome P-450 Enzyme System
+12433827;Quinidine
+12433827;Haloperidol
+12433827;CYP3A protein, human
+12433827;Cytochrome P-450 CYP3A
+12433827;CYP3A4 protein, human
+12431277;Simvastatin
+12431277;cerivastatin
+12410494;Simvastatin
+12410494;Nelfinavir
+12380704;Roxithromycin
+12380704;Simvastatin
+12380704;cerivastatin
+12371301;Cytochrome P-450 Enzyme System
+12371301;Simvastatin
+12365855;Homocysteine
+12365855;Atorvastatin
+12365855;Simvastatin
+12365855;Creatinine
+12365855;Tacrolimus
+12236852;Simvastatin
+12236852;Ezetimibe
+12202291;nefazodone
+12202291;Simvastatin
+12124308;Benzodiazepines
+12124308;Itraconazole
+12124308;Dexamethasone
+12124308;mexazolam
+12124308;CYP3A protein, human
+12124308;Cytochrome P-450 CYP3A
+12124308;CYP3A4 protein, human
+12044584;Cytochrome P-450 Enzyme System
+12044584;Lovastatin
+12044584;Atorvastatin
+12036392;Cytochrome P-450 Enzyme System
+12034651;Atorvastatin
+12034651;Simvastatin
+12034651;Ezetimibe
+12034651;Creatine Kinase
+12031736;Metformin
+12031736;Atorvastatin
+12031736;2,4-thiazolidinedione
+12031736;Simvastatin
+12031736;Troglitazone
+12031736;Acarbose
+12023536;simvastatin acid
+12023536;Simvastatin
+12023536;Gemfibrozil
+12023536;Glucuronosyltransferase
+11996607;Rifabutin
+11996607;Cytochrome P-450 Enzyme System
+11996607;Rifampin
+11978159;Itraconazole
+11978159;Cyclosporine
+11978159;Cytochrome P-450 Enzyme System
+11978159;Simvastatin
+11978159;Gemfibrozil
+11978159;Mixed Function Oxygenases
+11978159;CYP3A protein, human
+11978159;Cytochrome P-450 CYP3A
+11978159;CYP3A4 protein, human
+11977859;Simvastatin
+11977859;Ritonavir
+11977859;Mixed Function Oxygenases
+11977859;CYP3A protein, human
+11977859;Cytochrome P-450 CYP3A
+11975771;Allylamine
+11975771;Colesevelam Hydrochloride
+11959074;Cytochrome P-450 Enzyme System
+11959074;Atorvastatin
+11959074;Simvastatin
+11959074;Pravastatin
+11959074;Ritonavir
+11910595;Cholesterol
+11910595;Simvastatin
+11910595;Medroxyprogesterone Acetate
+11902809;Digoxin
+11902809;Lovastatin
+11902809;Simvastatin
+11902809;Pravastatin
+11873000;Atorvastatin
+11873000;Simvastatin
+11873000;Pravastatin
+11873000;Saquinavir
+11873000;Ritonavir
+11835043;policosanol
+11835043;Cholesterol
+11818715;Fusidic Acid
+11818715;Simvastatin
+11818715;Tacrolimus
+11757504;beta Carotene
+11757504;Vitamin E
+11757504;Niacin
+11757504;Simvastatin
+11757504;alpha-Tocopherol
+11757504;Selenium
+11757504;Ascorbic Acid
+11753267;Simvastatin
+11753267;Pravastatin
+11709322;Atorvastatin
+11709322;Simvastatin
+11709322;Nelfinavir
+11702815;Simvastatin
+11702815;Gemfibrozil
+11676178;Atorvastatin
+11676178;Diltiazem
+11676178;Pravastatin
+11599653;Fluvastatin
+11599653;Lovastatin
+11599653;Atorvastatin
+11599653;Simvastatin
+11599653;cerivastatin
+11599653;Pravastatin
+11586500;Cholesterol
+11586500;Lovastatin
+11586500;Simvastatin
+11586500;Ezetimibe
+11586500;Pravastatin
+11586500;Hydroxymethylglutaryl CoA Reductases
+11584328;Hydroxymethylglutaryl CoA Reductases
+11583063;Itraconazole
+11583063;Cytochrome P-450 Enzyme System
+11583063;Lovastatin
+11583063;Simvastatin
+11583063;Diltiazem
+11583063;Pravastatin
+11550401;Simvastatin
+11550401;Diltiazem
+11528245;Simvastatin
+11528245;Diltiazem
+11523726;Irbesartan
+11523064;Cytochrome P-450 Enzyme System
+11523064;Cholesterol
+11498460;beta Carotene
+11498460;Vitamin E
+11498460;Niacin
+11498460;Simvastatin
+11498460;Selenium
+11498460;Ascorbic Acid
+11497338;Cytochrome P-450 Enzyme System
+11497338;Simvastatin
+11497338;Cisapride
+11497338;Aryl Hydrocarbon Hydroxylases
+11497338;Cytochrome P-450 CYP3A
+11497338;Oxidoreductases, N-Demethylating
+11482929;Cytochrome P-450 Enzyme System
+11482929;Simvastatin
+11482929;Diltiazem
+11482929;Mixed Function Oxygenases
+11482929;CYP3A protein, human
+11482929;Cytochrome P-450 CYP3A
+11478407;Cytarabine
+11478407;Simvastatin
+11475198;Warfarin
+11475198;Cyclosporine
+11475198;Cytochrome P-450 Enzyme System
+11471312;Cytochrome P-450 Enzyme System
+11471312;Simvastatin
+11471312;Pravastatin
+11471312;Indomethacin
+11471312;Bezafibrate
+11471312;Mixed Function Oxygenases
+11471312;CYP3A protein, human
+11471312;Cytochrome P-450 CYP3A
+11465417;Itraconazole
+11465417;Cytochrome P-450 Enzyme System
+11465417;Simvastatin
+11422004;Cytochrome P-450 Enzyme System
+11422004;Simvastatin
+11422004;Verapamil
+11422004;Diltiazem
+11422004;Cyp2c13 protein, rat
+11405823;Simvastatin
+11408375;Itraconazole
+11408375;Simvastatin
+11361054;Simvastatin
+11361054;Troglitazone
+11361054;Pioglitazone
+11286990;Guanosine Triphosphate
+11286990;DNA
+11286990;Simvastatin
+11286990;Mitogen-Activated Protein Kinase 1
+11286990;Mitogen-Activated Protein Kinase 3
+11286990;Mitogen-Activated Protein Kinases
+11286990;p38 Mitogen-Activated Protein Kinases
+11286990;rac1 GTP-Binding Protein
+11286990;rhoA GTP-Binding Protein
+11284361;Fluvastatin
+11284361;Atorvastatin
+11284361;Simvastatin
+11284361;cerivastatin
+11284361;Pravastatin
+11272871;Fluvastatin
+11272871;Atorvastatin
+11272871;Simvastatin
+11272871;Pravastatin
+11272871;Mixed Function Oxygenases
+11272871;Steroid Hydroxylases
+11272871;Aryl Hydrocarbon Hydroxylases
+11272871;CYP3A protein, human
+11272871;Cytochrome P-450 CYP3A
+11272871;Steroid 16-alpha-Hydroxylase
+11259986;lacidipine
+11259986;Simvastatin
+11250868;Atorvastatin
+11237079;Simvastatin
+11237079;Sildenafil Citrate
+11197581;Simvastatin
+11197581;Clarithromycin
+11186187;Phenytoin
+11186187;Atorvastatin
+11186187;Simvastatin
+11186187;Nelfinavir
+11185669;Cholestyramine Resin
+11185669;Vitamin E
+11185669;Fluvastatin
+11185669;Lovastatin
+11185669;Simvastatin
+11185669;Pravastatin
+11181496;Benzodiazepines
+11181496;Cytochrome P-450 Enzyme System
+11181496;Pravastatin
+11181496;mexazolam
+11181496;Mixed Function Oxygenases
+11181496;CYP3A protein, human
+11181496;Cytochrome P-450 CYP3A
+11181496;CYP3A4 protein, human
+11180018;simvastatin acid
+11180018;Simvastatin
+11180018;Rifampin
+11149552;Digoxin
+11149552;Cyclosporine
+11149552;Simvastatin
+11149552;Verapamil
+11126989;Cytochrome P-450 Enzyme System
+11061578;Cytochrome P-450 Enzyme System
+11061578;Simvastatin
+11061578;Mixed Function Oxygenases
+11061578;CYP3A protein, human
+11061578;Cytochrome P-450 CYP3A
+11061578;CYP3A4 protein, human
+11029845;Cytochrome P-450 Enzyme System
+11014734;Cyclosporine
+11014734;Simvastatin
+11009568;Nitric Oxide
+11009568;farnesyl pyrophosphate
+11009568;Simvastatin
+11009568;geranylgeranyl pyrophosphate
+11009568;Mevalonic Acid
+11009568;Alkyl and Aryl Transferases
+11009568;geranylgeranyltransferase type-I
+11009568;Farnesyltranstransferase
+11009568;rho GTP-Binding Proteins
+10984808;Cyclosporine
+10984808;Cytochrome P-450 Enzyme System
+10984808;Mixed Function Oxygenases
+10984808;CYP3A protein, human
+10984808;Cytochrome P-450 CYP3A
+10976543;simvastatin acid
+10976543;Simvastatin
+10976543;Gemfibrozil
+10946302;Intercellular Adhesion Molecule-1
+10946302;Sodium Fluoride
+10946302;Cholesterol
+10946302;Simvastatin
+10946302;GTP-Binding Protein alpha Subunits, Gi-Go
+10942168;Amlodipine
+10942168;Nitric Oxide
+10942168;S-Nitroso-N-Acetylpenicillamine
+10942168;Simvastatin
+10942168;Penicillamine
+10942168;Ramipril
+10942168;Bradykinin
+10942168;Nitric Oxide Synthase
+10942168;Nitric Oxide Synthase Type III
+10942168;Nos3 protein, rat
+10934672;Simvastatin
+10934672;Irbesartan
+10934672;Mixed Function Oxygenases
+10934672;Steroid Hydroxylases
+10934672;Aryl Hydrocarbon Hydroxylases
+10934672;CYP3A protein, human
+10934672;Cytochrome P-450 CYP3A
+10934672;Steroid 16-alpha-Hydroxylase
+10919369;Vitamin E
+10919369;Fluvastatin
+10919369;Hemin
+10919369;Hydrogen Peroxide
+10919369;Ascorbic Acid
+10877724;Simvastatin
+10877724;Mixed Function Oxygenases
+10877724;CYP3A protein, human
+10877724;Cytochrome P-450 CYP3A
+10774794;cerivastatin
+10774794;Mevalonic Acid
+10779015;Arginine
+10779015;Simvastatin
+10779015;Nitric Oxide Synthase
+10779015;Nitric Oxide Synthase Type II
+10779015;Nitric Oxide Synthase Type III
+10779015;Nos3 protein, mouse
+10741630;Simvastatin
+10741630;Diltiazem
+10709776;Cytochrome P-450 Enzyme System
+10665838;Fluvastatin
+10665838;Cytochrome P-450 Enzyme System
+10665838;Atorvastatin
+10665838;Simvastatin
+10665838;cerivastatin
+10665838;Mevalonic Acid
+10657567;Nitroprusside
+10657567;Cholesterol
+10657567;Simvastatin
+10657567;geranylgeraniol
+10620105;Warfarin
+10620105;Simvastatin
+10620105;Hydroxymethylglutaryl CoA Reductases
+10620105;Creatine Kinase
+10587866;Simvastatin
+10587866;Troglitazone
+10583033;Cholesterol
+10583033;Simvastatin
+10583033;Diltiazem
+10575059;Cytochrome P-450 Enzyme System
+10544242;Lovastatin
+10544242;Simvastatin
+10544242;Alkyl and Aryl Transferases
+10544242;geranylgeranyltransferase type-I
+10544242;Farnesyltranstransferase
+10544242;Mitogen-Activated Protein Kinases
+10544242;ras Proteins
+10513779;Simvastatin
+10435174;Phenytoin
+10435174;Cytochrome P-450 Enzyme System
+10435174;Atorvastatin
+10435174;Simvastatin
+10413074;Phenylephrine
+10413074;Atorvastatin
+10413074;Simvastatin
+10413074;Pravastatin
+10413074;Mevalonic Acid
+10413074;Calcium
+10413074;Fura-2
+10393380;Cyclosporine
+10393380;Simvastatin
+10393380;Pravastatin
+10375806;Cyclosporine
+10375806;Simvastatin
+10347994;Atorvastatin
+10347994;Simvastatin
+10340925;Simvastatin
+10340925;Verapamil
+10322565;Simvastatin
+10322565;Chlorzoxazone
+10215754;Mibefradil
+10215754;Fluvastatin
+10215754;Cytochrome P-450 Enzyme System
+10215754;Lovastatin
+10215754;Atorvastatin
+10215754;Simvastatin
+10215754;cerivastatin
+10215754;Ketoconazole
+10215754;Aryl Hydrocarbon Hydroxylases
+10215754;Cytochrome P-450 CYP3A
+10215754;Oxidoreductases, N-Demethylating
+10193729;Fibrinopeptide A
+10193729;Prothrombin
+10193729;Cholesterol
+10193729;Simvastatin
+10193729;Aspirin
+10193729;Thrombin
+10075964;Ursodeoxycholic Acid
+10075964;Cholesterol
+10075964;Simvastatin
+10024335;Enalapril
+10024335;Simvastatin
+9987704;Warfarin
+9987704;Simvastatin
+9987704;Pravastatin
+9834039;simvastatin acid
+9834039;Simvastatin
+9804052;Lovastatin
+9797793;Lovastatin
+9797793;Diltiazem
+9797793;Pravastatin
+9797793;Mixed Function Oxygenases
+9797793;CYP3A protein, human
+9797793;Cytochrome P-450 CYP3A
+9728898;Erythromycin
+9728898;simvastatin acid
+9728898;Simvastatin
+9728898;Verapamil
+9728898;Mixed Function Oxygenases
+9728898;CYP3A protein, human
+9728898;Cytochrome P-450 CYP3A
+9728898;CYP3A4 protein, human
+9726984;5-iodotubercidin
+9726984;Aminoimidazole Carboxamide
+9726984;Pentostatin
+9726984;Thioinosine
+9726984;Adenosine Triphosphate
+9726984;Cholesterol
+9726984;Lovastatin
+9726984;Simvastatin
+9726984;AICA ribonucleotide
+9726984;Adenosine
+9726984;Tubercidin
+9726984;Protein Kinases
+9726984;Protein-Serine-Threonine Kinases
+9726984;AMP-Activated Protein Kinases
+9673778;Cyclosporine
+9673778;Simvastatin
+9673778;Tacrolimus
+9673778;Creatine Kinase
+9654265;Mibefradil
+9654265;Simvastatin
+9585793;Cytochrome P-450 Enzyme System
+9585793;Lovastatin
+9585793;Mixed Function Oxygenases
+9585793;CYP3A protein, human
+9585793;Cytochrome P-450 CYP3A
+9585793;CYP3A4 protein, human
+9542477;Itraconazole
+9542477;Simvastatin
+9542477;Pravastatin
+9542477;Mixed Function Oxygenases
+9542477;CYP3A protein, human
+9542477;Cytochrome P-450 CYP3A
+9542477;CYP3A4 protein, human
+9515185;Warfarin
+9515185;Cyclosporine
+9515185;Cytochrome P-450 Enzyme System
+9515185;Clofibrate
+9515185;Gemfibrozil
+9515185;Fenofibrate
+9515185;Mixed Function Oxygenases
+9515185;CYP3A protein, human
+9515185;Cytochrome P-450 CYP3A
+9515185;CYP3A4 protein, human
+9462685;Doxorubicin
+9462685;Lovastatin
+9462685;Simvastatin
+9462685;Carmustine
+9381730;mepirodipine
+9381730;NADP
+9381730;Cytochrome P-450 Enzyme System
+9381730;Nifedipine
+9258407;Cholesterol
+9258407;Lovastatin
+9258407;Simvastatin
+9258407;Pravastatin
+9258407;Mevalonic Acid
+9160173;Fluvastatin
+9160173;Lovastatin
+9160173;Simvastatin
+9160173;Pravastatin
+9129869;Atorvastatin
+9101013;Cyclosporine
+9100218;Cholesterol
+9100218;Lovastatin
+9100218;Simvastatin
+9100218;Hydroxymethylglutaryl CoA Reductases
+9002485;nefazodone
+9002485;Lovastatin
+9002485;Simvastatin
+9010388;Lovastatin
+9010388;Simvastatin
+9010388;Gemfibrozil
+9118584;Fluvastatin
+9118584;Cholesterol
+9118584;Lovastatin
+9118584;Simvastatin
+9118584;Pravastatin
+8859048;Itraconazole
+8859048;Lovastatin
+8859048;Simvastatin
+8918636;Itraconazole
+8918636;Cyclosporine
+8918636;Lovastatin
+8918636;Simvastatin
+8889048;Cholestyramine Resin
+8889048;Lovastatin
+8889048;Simvastatin
+8689812;Itraconazole
+8689812;Cytochrome P-450 Enzyme System
+8689812;Lovastatin
+8771511;Cholestyramine Resin
+8771511;Cyclosporine
+8771511;Lovastatin
+8771511;Simvastatin
+8771511;Probucol
+8771511;Gemfibrozil
+8771511;Fenofibrate
+8598737;Lovastatin
+8598737;Simvastatin
+8598737;Acenocoumarol
+8729584;Fluvastatin
+8521762;Cholesterol
+8521762;Lovastatin
+8521762;Simvastatin
+7583826;Fluvastatin
+7583826;Lovastatin
+7583826;Simvastatin
+7583826;Pravastatin
+7567762;Lovastatin
+7567762;Simvastatin
+7567762;Probucol
+7567762;Fenofibrate
+7567762;Bezafibrate
+7604792;Diclofenac
+7604792;Fluvastatin
+7604792;Tolbutamide
+7604792;Lovastatin
+7604792;Simvastatin
+7604792;Glyburide
+7604792;Hydroxymethylglutaryl CoA Reductases
+7606066;Cyclosporine
+7606066;Cholesterol
+7606066;Lovastatin
+7606066;Simvastatin
+7834630;Lovastatin
+7834630;Simvastatin
+7834630;Mevalonic Acid
+7834630;Carmustine
+7955780;Pravastatin
+8198018;Fluvastatin
+7875191;Lovastatin
+7875191;Simvastatin
+7875191;Ramipril
+8498408;Aldosterone
+8498408;Enalapril
+8498408;Lovastatin
+8498408;Simvastatin
+8355901;Lovastatin
+8355901;Simvastatin
+8355901;Pravastatin
+8343198;Lovastatin
+8343198;Simvastatin
+8380338;Superoxides
+8380338;Lovastatin
+8380338;Simvastatin
+8380338;Tetradecanoylphorbol Acetate
+8380338;Mevalonic Acid
+8380338;Hydroxymethylglutaryl CoA Reductases
+8289991;Cyclosporine
+8289991;Lovastatin
+8289991;Simvastatin
+1643632;Interferon-beta
+1643632;Lovastatin
+1643632;Simvastatin
+1643632;Carmustine
+1643632;Hydroxymethylglutaryl CoA Reductases
+1511541;Pravastatin
+1644096;Cyclosporine
+1644096;L 647318
+1644096;Lovastatin
+1644096;Simvastatin
+1644096;Pravastatin
+1410877;Cyclosporine
+1410877;Lovastatin
+1410877;Simvastatin
+1929970;Lovastatin
+1929970;Simvastatin
+1904494;L 647318
+1904494;Lovastatin
+1904494;Simvastatin
+1904494;Pravastatin
+1904355;Pravastatin
+2073673;Cholesterol
+2073673;Lovastatin
+2073673;Simvastatin

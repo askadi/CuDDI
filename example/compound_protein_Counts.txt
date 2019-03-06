@@ -1,0 +1,47 @@
+Substances	Count
+Simvastatin	452
+Cytochrome P-450 CYP3A	93
+Cytochrome P-450 Enzyme System	69
+CYP3A4 protein, human	57
+Cyclosporine	35
+CYP3A protein, human	34
+Warfarin	23
+Diltiazem	19
+simvastatin acid	18
+Ticlopidine	18
+Clopidogrel	18
+Clarithromycin	17
+Amiodarone	17
+Mixed Function Oxygenases	16
+Aryl Hydrocarbon Hydroxylases	16
+Itraconazole	15
+Aspirin	15
+Verapamil	12
+Rifampin	11
+Ketoconazole	11
+Vitamin E	10
+pitavastatin	9
+Amlodipine	9
+Ritonavir	7
+Midazolam	7
+Digoxin	7
+Erythromycin	6
+plastochromanol 8	5
+Tacrolimus	5
+Sirolimus	5
+Ramipril	5
+Nifedipine	5
+Lisinopril	5
+Imatinib Mesylate	5
+Colchicine	5
+Atenolol	5
+nefazodone	4
+Troglitazone	4
+Sitagliptin Phosphate	4
+Ranolazine	4
+Oxidoreductases, N-Demethylating	4
+Nelfinavir	4
+Fusidic Acid	4
+Fluconazole	4
+Carbamazepine	4
+Benzodiazepines	4

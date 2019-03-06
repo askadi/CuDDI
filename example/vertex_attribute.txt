@@ -1,0 +1,47 @@
+Substances	Type
+Nelfinavir	Compounds
+Cytochrome P-450 Enzyme System	Compounds
+Itraconazole	Compounds
+Clarithromycin	Compounds
+Rifampin	Compounds
+Ritonavir	Compounds
+Diltiazem	Compounds
+Verapamil	Compounds
+Cyclosporine	Compounds
+Amiodarone	Compounds
+Digoxin	Compounds
+Warfarin	Compounds
+plastochromanol 8	Compounds
+Imatinib Mesylate	Compounds
+nefazodone	Compounds
+Ketoconazole	Compounds
+Ticlopidine	Compounds
+Clopidogrel	Compounds
+Fusidic Acid	Compounds
+Erythromycin	Compounds
+Midazolam	Compounds
+Fluconazole	Compounds
+Ranolazine	Compounds
+Troglitazone	Compounds
+simvastatin acid	Compounds
+Carbamazepine	Compounds
+Tacrolimus	Compounds
+Colchicine	Compounds
+Amlodipine	Compounds
+Benzodiazepines	Compounds
+Sitagliptin Phosphate	Compounds
+Nifedipine	Compounds
+Vitamin E	Compounds
+Sirolimus	Compounds
+Lisinopril	Compounds
+Atenolol	Compounds
+Aspirin	Compounds
+Ramipril	Compounds
+pitavastatin	Compounds
+Simvastatin	Target
+Cytochrome P-450 CYP3A	Proteins
+CYP3A4 protein, human	Proteins
+CYP3A protein, human	Proteins
+Mixed Function Oxygenases	Proteins
+Oxidoreductases, N-Demethylating	Proteins
+Aryl Hydrocarbon Hydroxylases	Proteins

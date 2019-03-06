@@ -1,0 +1,200 @@
+CYP3A protein, human~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Amyloid Precursor Protein Secretases~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~Creatine Kinase~
+Mixed Function Oxygenases~CYP3A protein, human~Cytochrome P-450 CYP3A~
+Catalase~Glutathione Peroxidase~Superoxide Dismutase~Glutathione Transferase~Aspartate Aminotransferases~Alanine Transaminase~Alkaline Phosphatase~
+rhoA GTP-Binding Protein~
+Mixed Function Oxygenases~CYP3A protein, human~Cytochrome P-450 CYP3A~
+Caspase 3~
+Alanine Transaminase~
+Glutathione Transferase~
+Creatine Kinase~
+rho-Associated Kinases~Bone Morphogenetic Protein Receptors~ras Proteins~
+CYP3A protein, human~Cytochrome P-450 CYP3A~
+Alanine Transaminase~Alkaline Phosphatase~
+rho-Associated Kinases~Tissue Plasminogen Activator~
+CYP3A5 protein, human~Cytochrome P-450 CYP3A~
+Ribosomal Protein S6 Kinases, 70-kDa~PTEN Phosphohydrolase~PTEN protein, human~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+CYP3A protein, human~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Lipase~
+Nitric Oxide Synthase~Superoxide Dismutase~
+Caspase 1~
+Hydroxymethylglutaryl CoA Reductases~
+Nitric Oxide Synthase Type II~
+Alkyl and Aryl Transferases~geranylgeranyltransferase type-I~Farnesyltranstransferase~Mitogen-Activated Protein Kinases~ras Proteins~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Aryl Hydrocarbon Hydroxylases~CYP2C8 protein, human~Cytochrome P-450 CYP2C8~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Monoamine Oxidase~
+Aryl Hydrocarbon Hydroxylases~
+Transaminases~
+CYP3A protein, human~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Hydroxymethylglutaryl CoA Reductases~Creatine Kinase~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~
+Mixed Function Oxygenases~Steroid Hydroxylases~Aryl Hydrocarbon Hydroxylases~CYP3A protein, human~Cytochrome P-450 CYP3A~Steroid 16-alpha-Hydroxylase~
+L-Lactate Dehydrogenase~
+Creatine Kinase~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~
+CYP3A protein, human~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Extracellular Signal-Regulated MAP Kinases~ras Proteins~
+Creatine Kinase~
+Mixed Function Oxygenases~CYP3A protein, human~Cytochrome P-450 CYP3A~
+CYP3A protein, human~Cytochrome P-450 CYP3A~CYP3A4 protein, human~Creatine Kinase, MB Form~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+MTOR protein, human~TOR Serine-Threonine Kinases~Proto-Oncogene Proteins c-akt~AMP-Activated Protein Kinases~
+Mixed Function Oxygenases~CYP3A protein, human~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+NADH Dehydrogenase~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Creatine Kinase~
+Thymidylate Synthase~
+GTP-Binding Protein alpha Subunits, Gi-Go~
+Hydroxymethylglutaryl CoA Reductases~
+HMGCR protein, human~Hydroxymethylglutaryl CoA Reductases~
+CYP3A protein, human~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Thrombin~
+CYP3A protein, human~Cytochrome P-450 CYP3A~
+Creatine Kinase~
+Creatine Kinase~
+Cytochrome P-450 CYP3A~
+Glucokinase~
+Aspartate Aminotransferases~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Cyp3a2 protein, rat~Cytochrome P-450 CYP3A~
+Fatty Acid Desaturases~delta-5 fatty acid desaturase~
+CYP3A protein, human~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Retinal Dehydrogenase~
+Creatine Kinase~
+CYP3A protein, human~Cytochrome P-450 CYP3A~
+Cytochrome P-450 CYP2D6~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~CYP3A43 protein, human~
+Mixed Function Oxygenases~CYP3A protein, human~Cytochrome P-450 CYP3A~
+Proto-Oncogene Proteins c-akt~Mitogen-Activated Protein Kinase Kinases~Proto-Oncogene Proteins p21ras)~
+Tissue Plasminogen Activator~
+TOR Serine-Threonine Kinases~Mechanistic Target of Rapamycin Complex 1~Proto-Oncogene Proteins c-akt~Extracellular Signal-Regulated MAP Kinases~CASP3 protein, human~Casp3 protein, mouse~Caspase 3~
+Carboxylic Ester Hydrolases~CES1 protein, human~
+Oncogene Protein v-akt~Extracellular Signal-Regulated MAP Kinases~Caspase 3~
+Hydroxymethylglutaryl CoA Reductases~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+NOS3 protein, human~Nitric Oxide Synthase Type III~
+CYP3A protein, human~Cytochrome P-450 CYP3A~
+Cytochrome P-450 CYP3A~
+CYP3A protein, human~Cytochrome P-450 CYP3A~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+CYP3A protein, human~Cytochrome P-450 CYP3A~
+Phosphatidylinositol 3-Kinases~
+CYP3A5 protein, human~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+CYP17A1 protein, rat~Steroid 17-alpha-Hydroxylase~
+Mixed Function Oxygenases~CYP3A protein, human~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Mixed Function Oxygenases~CYP3A protein, human~Cytochrome P-450 CYP3A~
+Mixed Function Oxygenases~CYP3A protein, human~Cytochrome P-450 CYP3A~
+Nitric Oxide Synthase~Nitric Oxide Synthase Type II~Nitric Oxide Synthase Type III~Nos3 protein, mouse~
+Mixed Function Oxygenases~CYP3A protein, human~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~Mitogen-Activated Protein Kinase 1~
+Nitric Oxide Synthase Type III~Proto-Oncogene Proteins c-akt~
+Cytochrome P-450 CYP3A~Creatine Kinase~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Proto-Oncogene Proteins c-akt~JNK Mitogen-Activated Protein Kinases~
+UDP-glucuronosyltransferase, UGT1A3~Glucuronosyltransferase~bilirubin glucuronoside glucuronosyltransferase~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Nitric Oxide Synthase~Nitric Oxide Synthase Type III~Nos3 protein, rat~
+CYP3A protein, human~Cytochrome P-450 CYP3A~
+Creatine Kinase~
+Mitogen-Activated Protein Kinase 1~Mitogen-Activated Protein Kinase 3~Mitogen-Activated Protein Kinases~p38 Mitogen-Activated Protein Kinases~rac1 GTP-Binding Protein~rhoA GTP-Binding Protein~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Hydroxymethylglutaryl CoA Reductases~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Cytochrome P-450 CYP2E1~Cyp3a1 protein, rat~Cyp3a2 protein, rat~Cytochrome P-450 CYP3A~Superoxide Dismutase~Aspartate Aminotransferases~Alanine Transaminase~
+Cytochrome P-450 CYP3A~
+Caspase 3~
+Amyloid Precursor Protein Secretases~
+Creatine Kinase~
+PCSK9 protein, human~Proprotein Convertase 9~Proprotein Convertases~Serine Endopeptidases~
+Cholesterol Side-Chain Cleavage Enzyme~
+Aspartate Aminotransferases~Alanine Transaminase~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Mixed Function Oxygenases~CYP3A protein, human~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Aryl Hydrocarbon Hydroxylases~CYP2C19 protein, human~Cytochrome P-450 CYP2C19~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Peptidyl-Dipeptidase A~
+Mixed Function Oxygenases~Steroid Hydroxylases~Aryl Hydrocarbon Hydroxylases~CYP3A protein, human~Cytochrome P-450 CYP3A~Steroid 16-alpha-Hydroxylase~
+Ribosomal Protein S6 Kinases, 70-kDa~
+Cytochrome P-450 CYP3A~
+Oxidoreductases~
+Caspase 3~
+Cyclooxygenase 1~PTGS1 protein, human~Mitogen-Activated Protein Kinases~Phospholipases A2~Thromboxane-A Synthase~
+CYP3A protein, human~Cytochrome P-450 CYP3A~
+Aspartate Aminotransferases~Alanine Transaminase~Creatine Kinase~
+Mixed Function Oxygenases~CYP3A protein, human~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Cytochrome P-450 CYP3A~Creatine Kinase~
+Hydroxymethylglutaryl CoA Reductases~
+Protein Kinases~Protein-Serine-Threonine Kinases~AMP-Activated Protein Kinases~
+CYP3A protein, human~Cytochrome P-450 CYP3A~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Cytochrome P-450 CYP3A~
+CYP3A protein, human~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Glucuronosyltransferase~UDP-glucuronosyltransferase 1A9~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Cyp2c13 protein, rat~
+Mixed Function Oxygenases~CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~
+CYP3A protein, human~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Aryl Hydrocarbon Hydroxylases~Cytochrome P-450 CYP3A~Oxidoreductases, N-Demethylating~
+Electron Transport Complex IV~
+Mixed Function Oxygenases~CYP3A protein, human~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Creatine Kinase~
+Caspase 1~
+Cytochrome P-450 CYP3A~
+Cytochrome P-450 CYP2D6~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Creatine Kinase~
+CYP3A protein, human~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Hydroxymethylglutaryl CoA Reductases~Caspase 3~
+Mixed Function Oxygenases~CYP3A protein, human~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Nitric Oxide Synthase Type III~
+Creatine Kinase~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Extracellular Signal-Regulated MAP Kinases~
+Hydroxymethylglutaryl CoA Reductases~
+Cytochrome P-450 CYP3A~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Cytochrome P-450 CYP3A~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Aryl Hydrocarbon Hydroxylases~Cytochrome P-450 CYP3A~Oxidoreductases, N-Demethylating~
+Cytochrome P-450 CYP3A~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Aryl Hydrocarbon Hydroxylases~Cytochrome P-450 CYP3A~Oxidoreductases, N-Demethylating~
+Protein Kinases~Phosphatidylinositol 3-Kinases~Interleukin-1 Receptor-Associated Kinases~
+Hydroxymethylglutaryl CoA Reductases~
+Hydroxymethylglutaryl CoA Reductases~
+Hydroxymethylglutaryl CoA Reductases~
+Alkyl and Aryl Transferases~geranylgeranyltransferase type-I~Farnesyltranstransferase~rho GTP-Binding Proteins~
+Oncogene Protein v-akt~Caspase 3~Caspase 9~
+Cyp3a2 protein, rat~Cytochrome P-450 CYP3A~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Glucuronosyltransferase~
+Aryl Hydrocarbon Hydroxylases~CYP3A43 protein, human~
+L-Lactate Dehydrogenase~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+PolyADP-ribose) Polymerases~Proto-Oncogene Proteins c-akt~JNK Mitogen-Activated Protein Kinases~
+Hydroxymethylglutaryl CoA Reductases~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Creatine Kinase~
+Protein Kinase C~AMP-Activated Protein Kinases~
+Proto-Oncogene Proteins c-akt~Mitogen-Activated Protein Kinases~p38 Mitogen-Activated Protein Kinases~MAP Kinase Kinase 4~
+Nitric Oxide Synthase Type III~Nos3 protein, rat~CREB-Binding Protein~Crebbp protein, rat~Proto-Oncogene Proteins c-akt~Mitogen-Activated Protein Kinase 1~Mitogen-Activated Protein Kinase 3~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Cyclooxygenase 2~
+CYP2C19 protein, human~Cytochrome P-450 CYP2C19~Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Nitric Oxide Synthase Type II~Nitric Oxide Synthase Type III~Argininosuccinate Lyase~
+Hydroxymethylglutaryl CoA Reductases~
+Aryl Hydrocarbon Hydroxylases~Cytochrome P-450 CYP3A~Oxidoreductases, N-Demethylating~
+Cytochrome P-450 CYP3A~CYP3A4 protein, human~
+Proteasome Endopeptidase Complex~

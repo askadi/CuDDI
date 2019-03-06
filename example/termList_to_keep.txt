@@ -1,0 +1,39 @@
+Cyclosporine
+Warfarin
+Diltiazem
+Ticlopidine
+Clopidogrel
+Clarithromycin
+Amiodarone
+Itraconazole
+Aspirin
+Verapamil
+Rifampin
+Ketoconazole
+Amlodipine
+Pitavastatin
+Ritonavir
+Digoxin
+Midazolam
+Erythromycin
+Imatinib Mesylate
+Colchicine
+Tacrolimus
+Nifedipine
+Sirolimus
+Lisinopril
+Ramipril
+Atenolol
+Nelfinavir
+nefazodone
+Ranolazine
+Carbamazepine
+Troglitazone
+Fluconazole
+Sitagliptin Phosphate
+Cytochrome P-450 CYP3A
+CYP3A4 protein, human
+CYP3A protein, human
+Mixed Function Oxygenases
+Aryl Hydrocarbon Hydroxylases
+Oxidoreductases, N-Demethylating
