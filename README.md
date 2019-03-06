@@ -7,9 +7,7 @@ The detailed commands to compile and execute source code are as follows:<br />
 
 Here, we use Simvastatin as an example. The related files are located in the directory of example<br />
 1. Run the python script:<br />
-	```
-	python step_1_download_Substance.py drugNameList_original.txt para.txt
-	```
+	`python step_1_download_Substance.py drugNameList_original.txt para.txt`<br />
 	In this step, please make sure that the Biopython package is installed.<br />
 	Pay attention: drugNameList_original.txt and para.txt must be manually configured in advance.
 	There are five output files which are:<br />
@@ -25,7 +23,7 @@ Here, we use Simvastatin as an example. The related files are located in the dir
 		Compile the source code in the computer which has NVIDIA GPU by using the command:<br />
 		nvcc step_2_1_randomSampling_pValue_output.cu -o step_2_1_randomSampling_pValue_output -Wno-deprecated-gpu-targets
 		Run the executable file:<br />
-		step_2_1_randomSampling_pValue_output simvastatin_result_1_compounds.txt simvastatin_result_2_compounds.txt simvastatin_result_1_proteins.txt simvastatin_result_2_proteins.txt para.txt "Simvastatin"
+		`step_2_1_randomSampling_pValue_output simvastatin_result_1_compounds.txt simvastatin_result_2_compounds.txt simvastatin_result_1_proteins.txt simvastatin_result_2_proteins.txt para.txt "Simvastatin"`<br />
 
 	2.1.2 Python-based implementation for Module 2.<br />
 		In this step, please make sure that the scipy and numpy packages are installed.<br />
